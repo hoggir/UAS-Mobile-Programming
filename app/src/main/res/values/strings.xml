@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pengen Absen</string>
+    <string name="action_settings">Settings</string>
+    <string name="noabsn">No Absen</string>
+    <string name="name">Nama</string>
+    <string name="classes">Kelas</string>
+    <string name="jam">Jam</string>
+    <string name="ket">Keterangan</string>
+    <string name="morning">Pagi (09.00-11.00 WIB)</string>
+    <string name="afternoon">Siang (13.00-15.00 WIB)</string>
+    <string name="simpan">Simpan</string>
+    <string name="error">Kesalahan Jaringan</string>
+</resources>
